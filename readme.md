@@ -3,6 +3,7 @@
 # Use icons in stencil
 
 Demo of how to use icon libraries in stenciljs
+
 ![Demo Image](https://raw.githubusercontent.com/drygnet/stenciljs-icons-example/master/icons.png)
 
 ## Getting Started
