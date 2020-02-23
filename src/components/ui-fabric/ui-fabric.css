@@ -1,8 +1,4 @@
-:host {
-  display: block;
-}
-
-.ms-Icon {
+icons-ui-fabric .ms-Icon {
   font-size: 31px;
   padding: 8px 9px 9px 10px;
   margin: 7px;
