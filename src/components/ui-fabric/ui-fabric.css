@@ -1,0 +1,11 @@
+:host {
+  display: block;
+}
+
+.ms-Icon {
+  font-size: 31px;
+  padding: 8px 9px 9px 10px;
+  margin: 7px;
+  border: 1px solid gray;
+  border-radius: 3px;
+}
