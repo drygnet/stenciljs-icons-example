@@ -35,10 +35,10 @@ npm run build
 ... uses the downloaded ``all.min.css``that expects the font-files to be in the webfonts-directory on the server, look at the copy-block in ```stencil.config.js```
 
 ### Material Icons
-... has all the css thas is needed in the component, the same webfonts-directory is used for simplicity
+... has all the CSS thas is needed in the component, the same webfonts-directory is used for simplicity
 
 ### Office UI Fabric Icons
-... uses the downloaded ```fabric-icons-inline.css``` that contains all the css and the actual font.
+... uses the downloaded ```fabric-icons-inline.css``` that contains all the CSS and the actual font.
 
 ### Extra files in assets-directory
-Not all files in the assets directory are needed, just the ones referenced in the components and the font files that are copied via ```stencil.config.js``` I kept the files if you e.g. don't need the brand-icons in fontAwesome (replace ```all.min.css``` with the css you need in the component) or if you want to change the Material Icons implementation to use copied webfonts.
+Not all files in the assets directory are needed, just the ones referenced in the components and the font files that are copied via ```stencil.config.js``` I kept the files if you e.g. don't need the brand-icons in FontAwesome (replace ```all.min.css``` with the CSS you need in the component) or if you want to change the Material Icons implementation to use copied webfonts.
