@@ -36,7 +36,7 @@ npm run build
 ... uses the downloaded ``all.min.css``that expects the font-files to be in the webfonts-directory on the server, look at the copy-block in ```stencil.config.js```
 
 ### Material Icons
-... has all the CSS thas is needed in the component, the same webfonts-directory is used for simplicity
+... has all the CSS that is needed included in the component, the same webfonts-directory is used for simplicity
 
 ### Office UI Fabric Icons
 ... uses the downloaded ```fabric-icons-inline.css``` that contains all the CSS and the actual font.
