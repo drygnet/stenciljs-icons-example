@@ -2,7 +2,7 @@ import { Component, Host, h } from '@stencil/core';
 
 @Component({
   tag: 'icons-ui-fabric',
-  styleUrls: ['ui-fabric.css', '../../assets/fabric/css/fabric-icons-inline.css'],
+  styleUrls: ['ui-fabric.css'],
   shadow: false
 })
 export class UiFabric {
