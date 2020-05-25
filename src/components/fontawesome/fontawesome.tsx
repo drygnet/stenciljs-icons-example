@@ -2,9 +2,7 @@ import { Component, Host, h } from '@stencil/core';
 
 @Component({
   tag: 'icons-fontawesome',
-  styleUrls: ['fontawesome.css', // this is not fontawesome, this is the compnents css
-    '../../assets/fontawesome/css/all.min.css', // this is fontawesome
-  ],
+  styleUrls: ['fontawesome.css'],
   assetsDirs: ['assets'],
   shadow: false
 })
